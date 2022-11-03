@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<body style="background-color:powderblue;">
+
+<h1 style="font-size:300%;">Hello!</h1>
+<p>These are my five most recent interests:</p>
+ <ol>
+  <li>Sparkling water</li> <img src="https://www.mashed.com/img/gallery/the-untold-truth-of-sparkling-water/intro-1617724238.jpg" alt="sparkling water"> 
+  <li>Running</li> <img src="https://d2z0k43lzfi12d.cloudfront.net/blog/vcdn352/wp-content/uploads/2021/05/thumbnail_1200x800-2-1024x683.jpg.webp" alt="Running"> 
+  <li>Japanese cooking</li> <img src="https://www.daringgourmet.com/wp-content/uploads/2013/05/Teriyaki-Sauce-1-square.jpg" alt="Teriyaki sauce"> 
+  <li>Paul Singer</li> <img src="https://moneyinc.com/wp-content/uploads/2019/10/Paul-Singer-750x422.jpg" alt="singer boom"> 
+  <li>Origami</li> <img src="https://cdn.britannica.com/08/166508-050-12D5E894/origami-crane.jpg" width="650" height="600"> 
+</ol> 
+<p1 style>Thank you!</p1> 
+</body>
+
+</html> 
